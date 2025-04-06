@@ -26,6 +26,8 @@
 
   --text-color: #333333;
   --footer-padding: 2rem;
+
+  --scroll-transition: 0.3s ease-in-out;
 }
 
 html {
