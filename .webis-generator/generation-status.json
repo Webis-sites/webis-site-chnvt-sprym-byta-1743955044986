@@ -1,8 +1,11 @@
 {
-  "projectName": "חנות-ספרים-ביתא-5045",
-  "businessName": "חנות ספרים ביתא",
-  "created": "2025-04-06T15:57:25.042Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-04-06T15:57:47.462Z",
+  "status": {
+    "totalComponents": 0,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [],
+  "repoName": "webis-site-chnvt-sprym-byta-1743955044986"
 }
