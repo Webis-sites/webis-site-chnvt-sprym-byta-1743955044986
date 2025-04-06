@@ -15,6 +15,10 @@
   --font-heading: 'Heebo', 'Rubik', sans-serif;
 
   --card-hover-transition: 0.3s;
+
+  --form-transition: 0.3s ease-in-out;
+  --input-focus-shadow: 0 0 0 2px rgba(150, 206, 180, 0.25);
+  --rtl-direction: rtl;
 }
 
 html {
