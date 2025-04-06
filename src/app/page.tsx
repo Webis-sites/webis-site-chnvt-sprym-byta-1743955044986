@@ -10,6 +10,7 @@ import PortfolioSection from '../components/PortfolioSection';
 import BookingSection from '../components/BookingSection';
 import ContactSection from '../components/ContactSection';
 import FooterSection from '../components/FooterSection';
+import ScrollToTopButton from '../components/ScrollToTopButton';
 
 export default function HomePage() {
   return (
@@ -25,6 +26,7 @@ export default function HomePage() {
     <BookingSection />
     <ContactSection />
     <FooterSection />
+    <ScrollToTopButton />
   </main>
       
       <footer className="py-6 bg-gray-100 dark:bg-gray-800">
