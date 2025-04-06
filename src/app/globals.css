@@ -23,6 +23,9 @@
   --form-transition-duration: 0.3s;
   --form-hover-translate: -5px;
   --input-focus-ring-size: 2px;
+
+  --text-color: #333333;
+  --footer-padding: 2rem;
 }
 
 html {
