@@ -1,11 +1,72 @@
 {
-  "timestamp": "2025-04-06T15:57:47.462Z",
+  "timestamp": "2025-04-06T15:58:17.198Z",
   "status": {
-    "totalComponents": 0,
+    "totalComponents": 10,
     "completedComponents": 0,
     "failedComponents": 0,
     "progress": 0
   },
-  "components": [],
+  "components": [
+    {
+      "name": "NavigationMenu",
+      "type": "navigation",
+      "status": "pending",
+      "description": "RTL responsive navigation menu with all website sections"
+    },
+    {
+      "name": "HeroSection",
+      "type": "hero",
+      "status": "pending",
+      "description": "Main hero section showcasing the bookstore with headline and CTA"
+    },
+    {
+      "name": "AboutSection",
+      "type": "about",
+      "status": "pending",
+      "description": "Section describing the bookstore's history, mission and expertise"
+    },
+    {
+      "name": "ProductsSection",
+      "type": "products",
+      "status": "pending",
+      "description": "Showcase of featured book products with categories"
+    },
+    {
+      "name": "ServicesSection",
+      "type": "services",
+      "status": "pending",
+      "description": "Section highlighting the bookstore's services"
+    },
+    {
+      "name": "PortfolioSection",
+      "type": "portfolio",
+      "status": "pending",
+      "description": "Gallery showcasing the bookstore's events, author signings, and special collections"
+    },
+    {
+      "name": "BookingSection",
+      "type": "booking",
+      "status": "pending",
+      "description": "Appointment booking system for consultations or special orders"
+    },
+    {
+      "name": "ContactSection",
+      "type": "contact",
+      "status": "pending",
+      "description": "Contact information and form for customer inquiries"
+    },
+    {
+      "name": "FooterSection",
+      "type": "footer",
+      "status": "pending",
+      "description": "Website footer with links, social media, and copyright information"
+    },
+    {
+      "name": "ScrollToTopButton",
+      "type": "utility",
+      "status": "pending",
+      "description": "Button that appears when scrolling down to return to top of page"
+    }
+  ],
   "repoName": "webis-site-chnvt-sprym-byta-1743955044986"
 }
